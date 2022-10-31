@@ -23,6 +23,3 @@ You can customize it as per your requirements by doing some minor changes in the
 #### You can edit the code right from Github editor
 - Goto the file you want to edit;
 - Press . Now you can edit straight from Github.
-
-## Can I customize the commands?
-to be continued..
