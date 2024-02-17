@@ -1,4 +1,4 @@
-# db-CLI
+# mongo-CLI
 Can't remember all the Commands to query your database?\
 Or are you checking the documentation for every query you want to perform?
 
